@@ -19,7 +19,7 @@ Recent AI-agent tooling trends point in the same direction:
 
 ## Install
 
-The package is not published to PyPI yet. Once the public GitHub repository is available, install it with:
+The package is not published to PyPI yet. Install it from GitHub:
 
 ```sh
 python3 -m pip install "git+https://github.com/mikebfox/runlace.git"
